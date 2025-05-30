@@ -1,55 +1,56 @@
 # 🌀 Black Hole Gravity Simulation
 
-Simulação visual e interativa de um buraco negro que atrai estrelas ao seu redor. Desenvolvido com HTML, CSS e JavaScript puro, o projeto cria um efeito de gravidade central em que objetos se movem em direção ao centro da tela, como se estivessem sendo puxados por um buraco negro.
+Simulação visual de um buraco negro atraindo estrelas ao seu redor. Este projeto utiliza HTML, CSS e JavaScript puro para criar uma animação interativa inspirada na gravidade cósmica.
 
 ---
 
-## 📸 Preview
+## 📸 Prévia do Projeto
 
-![Black Hole Gravity Simulation](preview.png)
-
-
----
-
-## ✨ Descrição para LinkedIn
-
-💻 Desenvolvi uma simulação interativa em JavaScript puro que representa o comportamento de um buraco negro atraindo estrelas próximas. O projeto combina HTML, CSS e animações em tempo real com `requestAnimationFrame` para criar uma experiência visual suave. Ideal para demonstrações de física visual e portfólios criativos. 🌌
+<img src="preview.png" alt="Black Hole Gravity Simulation Preview" width="600"/>
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Sobre o Projeto
 
-- Geração aleatória de 100 "estrelas"
-- Simulação de gravidade com movimento realista
-- Interface limpa e visualmente imersiva
-- Código leve e sem bibliotecas externas
+Este simulador demonstra um efeito visual onde objetos (estrelas) são atraídos por um centro gravitacional (o buraco negro), criando uma sensação imersiva e dinâmica. É ideal para fins educativos, demonstrações de física e projetos criativos de portfólio.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-- HTML5
-- CSS3
-- JavaScript puro
+- 100 estrelas geradas aleatoriamente
+- Movimento com simulação gravitacional
+- Interface escura com destaque visual
+- Código 100% JavaScript sem bibliotecas externas
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📁 Estrutura
 
 black-hole-gravity-simulation/
 ├── index.html
+├── style.css
+├── script.js
 ├── preview.png
 └── README.md
 
 
 ---
 
-## ▶️ Como Usar
+## 🛠️ Tecnologias
 
-1. Clone o repositório:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## ▶️ Como Executar
+
+1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/black-hole-gravity-simulation.git
 
-    Abra o arquivo index.html no seu navegador.
+    Abra index.html no navegador
 
-    Observe a simulação em tempo real do buraco negro puxando as estrelas.
+    Pronto! Veja a simulação acontecendo
