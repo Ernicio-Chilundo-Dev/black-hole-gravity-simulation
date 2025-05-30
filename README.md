@@ -6,7 +6,7 @@ Simulação visual de um buraco negro atraindo estrelas ao seu redor. Este proje
 
 ## 📸 Prévia do Projeto
 
-<img src="preview.png" alt="Black Hole Gravity Simulation Preview" width="600"/>
+<img src="preview.png" alt="Black Hole Gravity Simulation Preview" width="100%"/>
 
 ---
 
