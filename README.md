@@ -8,6 +8,7 @@ Simulação visual e interativa de um buraco negro que atrai estrelas ao seu red
 
 ![Black Hole Gravity Simulation](preview.png)
 
+
 ---
 
 ## ✨ Descrição para LinkedIn
