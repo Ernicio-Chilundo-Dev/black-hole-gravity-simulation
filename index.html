@@ -20,7 +20,7 @@
                 height: 80px;
                 border-radius: 50%;
                 margin: -40px 0 0 -40px;
-                background: radial-gradient(circle, #000 #222);
+                background: radial-gradient(circle, #000, #222);
                 box-shadow: 0 0 50px 20px rgba(0,0,0,0.8);
                 z-index: 10;
             }
@@ -41,7 +41,7 @@
         <script>
             const stars = [];
 
-            for(let i = 0; i < 200 ; i++){
+            for(let i = 0; i < 600 ; i++){
                 const star = document.createElement("div");
                 star.className = 'star';
                 star.style.top = `${Math.random() * window.innerHeight}px`;
@@ -61,7 +61,7 @@
 
                     if(dist > 5){
                         star.style.left = `${x + dx / dist * 0.8}px`;
-                        star.style.top = `${y + dx / dist * 0.8}px`;
+                        star.style.top = `${y + dy / dist * 0.8}px`;
 
                     }else{
                         star.style.opacity = 0;
